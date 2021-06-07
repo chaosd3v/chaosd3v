@@ -1,4 +1,7 @@
-### Hi 👋
+### Hi there👋
+
+<img src="https://i.giphy.com/giKklFontfveZrNXjz.gif" alt="Working" width="200" height="100" />
+
 ```js
 me.devName('stealthd3v');
 me.devFor('open source projects');
