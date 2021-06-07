@@ -6,7 +6,7 @@
 me.devName('stealthd3v');
 me.devFor('open source projects');
 ```
-- 🔭 **Fullstack Development** | **Mobile Application Development** | **Linux Administration**
+- 🔭 **Fullstack Development** | **Mobile Application Development**
 - 🌱 Currently learning __Next.JS framework__ 
 - 👯 Happy to collaborate on __Open Source projects__
 - 🤔 Other interests  in __Machine Learning__
