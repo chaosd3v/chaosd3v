@@ -4,7 +4,7 @@
 
 ```js
 me.devName('stealthd3v');
-me.devFor('open source projects');
+me.devFor('open source projects'||'other side projects');
 ```
 - 🔭 **Fullstack Development** | **Mobile Application Development**
 - 🌱 Currently learning __Next.JS framework__ 
