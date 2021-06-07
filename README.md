@@ -17,4 +17,4 @@ usual_skills = ['python','javascript','kotlin']
 print(usual_skills)
 ```
 
-![stats](https://github-readme-stats.vercel.app/api?username=stealthd3v&show_icons=true&theme=default)
+
