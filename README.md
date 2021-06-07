@@ -6,7 +6,7 @@ me.devFor('open source projects');
 - 🔭 **Fullstack Development** | **Mobile Application Development** | **Linux Administration**
 - 🌱 Currently learning __Next.JS__ and __Typescript__
 - 👯 Happy to collaborate on __Open Source projects__
-- 🤔 Other interests  in __Cybersecurity__ and __Machine Learning__
+- 🤔 Other interests  in __Machine Learning__
 
 ### Usual Skills
 ```py
