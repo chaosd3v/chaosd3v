@@ -1,5 +1,5 @@
 ### Hi there👋
-
+<link rel="preload" href="https://i.giphy.com/giKklFontfveZrNXjz.gif" alt="Working" width="200" height="100" />
 <img src="https://i.giphy.com/giKklFontfveZrNXjz.gif" alt="Working" width="200" height="100" />
 
 ```js
