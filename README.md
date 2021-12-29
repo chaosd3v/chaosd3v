@@ -10,7 +10,7 @@ me.devFor('open source projects'||'other side projects');
 - 🤖 **Bots builder** || **Turing Test Passed** ✅
 - 🌱 Currently learning __Next.JS framework__ 
 - 👯 Happy to collaborate on __Open Source projects__
-- 🤔 Other interests  in __Machine Learning__
+- 🤔 Other interests  in __Machine Learning__ ,  __Blockchain__
 
 ### Usual Skills
 ```py
