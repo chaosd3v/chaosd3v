@@ -6,7 +6,7 @@
 me.devName('chaosd3v');
 me.devFor('open source projects'||'other side projects');
 ```
-- 🔭 **Mobile Application Development** | **Fullstack Development**
+- 🔭 **Fullstack Development**
 - 🤖 **Bots builder** || **Turing Test Passed** ✅
 - 🌱 Currently learning __Next.JS framework__ 
 - 👯 Happy to collaborate on __Open Source projects__
