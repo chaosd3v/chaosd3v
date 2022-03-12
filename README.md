@@ -48,7 +48,7 @@ print(usual_skills)
 </details>
 
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaosd3v" alt="chaosd3v" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaosd3v&margin-w=15" alt="chaosd3v" /></a> </p>
 
 
 <p> <img src="https://komarev.com/ghpvc/?username=chaosd3v&label=Profile%20views&color=0e75b6&style=flat" alt="chaosd3v">
