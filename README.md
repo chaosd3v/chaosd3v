@@ -2,7 +2,6 @@
 <link rel="preload" href="https://i.giphy.com/giKklFontfveZrNXjz.gif" alt="Working" width="200" height="100" />
 <img src="https://i.giphy.com/giKklFontfveZrNXjz.gif" alt="Working" width="200" height="100" />
 
-<p> <img src="https://komarev.com/ghpvc/?username=chaosd3v&label=Profile%20views&color=0e75b6&style=flat" alt="chaosd3v"> </p>
 
 ### Myself
 
@@ -52,4 +51,7 @@ print(usual_skills)
 <summary>Click for GitHub Stats</summary>
 <p><img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chaosd3v&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"></p>
 </details>
+
+<p> <img src="https://komarev.com/ghpvc/?username=chaosd3v&label=Profile%20views&color=0e75b6&style=flat" alt="chaosd3v">
+<img src="https://badges.pufler.dev/visits/chaosd3v/chaosd3v?color=black&logo=github&style=flat-square" alt="chaosd3v"> </p>
 
