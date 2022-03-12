@@ -47,8 +47,8 @@ print(usual_skills)
 <p><img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chaosd3v&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"></p>
 </details>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaosd3v&" alt="chaosd3v"></p>-->
 
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaosd3v" alt="chaosd3v" /></a> </p>
 
 
 <p> <img src="https://komarev.com/ghpvc/?username=chaosd3v&label=Profile%20views&color=0e75b6&style=flat" alt="chaosd3v">
