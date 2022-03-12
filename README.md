@@ -48,5 +48,8 @@ print(usual_skills)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaosd3v&" alt="chaosd3v"></p>-->
 
-
+<details>
+<summary>Click for GitHub Stats</summary>
+<p><img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chaosd3v&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"></p>
+</details>
 
