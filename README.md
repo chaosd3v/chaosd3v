@@ -40,9 +40,9 @@ print(usual_skills)
 ### Github Stats
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaosd3v" alt="chaosd3v"></a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaosd3v&show_icons=true&locale=en" alt="chaosd3v"></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaosd3v&show_icons=true&locale=en" alt="chaosd3v"></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaosd3v&" alt="chaosd3v"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaosd3v&" alt="chaosd3v"></p>-->
 
 
 
