@@ -12,6 +12,9 @@ me.devFor('open source projects'||'other side projects');
 - 👯 Happy to collaborate on __Open Source projects__
 - 🤔 Other interests  in __Machine Learning__ ,  __Blockchain__
 
+### Github Stats
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaosd3v" alt="chaosd3v"></a></p>
+
 ### Usual Skills
 ```py
 usual_skills = ['python','javascript','kotlin']
