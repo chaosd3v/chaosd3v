@@ -1,6 +1,7 @@
 ### Hi there👋
 <link rel="preload" href="https://i.giphy.com/giKklFontfveZrNXjz.gif" alt="Working" width="200" height="100" />
 <img src="https://i.giphy.com/giKklFontfveZrNXjz.gif" alt="Working" width="200" height="100" />
+<p> <img src="https://komarev.com/ghpvc/?username=chaosd3v&label=Profile%20views&color=0e75b6&style=flat" alt="chaosd3v"> </p>
 
 ```js
 me.devName('chaosd3v');
