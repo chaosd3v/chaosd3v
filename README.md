@@ -38,13 +38,13 @@ print(usual_skills)
    <a href="https://bitbucket.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/> </a> 
    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaosd3v&show_icons=true&locale=en&layout=compact" alt="chaosd3v"></p>
+<p><img src="https://github-readme-stats-neo.vercel.app/api/top-langs?username=chaosd3v&show_icons=true&locale=en&layout=compact" alt="chaosd3v"></p>
 
 ### Github Stats
 
 <details>
 <summary>Click for GitHub Stats</summary>
-<p><img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chaosd3v&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"></p>
+<p><img alt = "GitHub Stats" src="https://github-readme-stats-neo.vercel.app/api?username=chaosd3v&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"></p>
 </details>
 
 
