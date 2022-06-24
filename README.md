@@ -1,14 +1,9 @@
-### Hi there👋, 
 <link rel="preload" href="https://i.giphy.com/giKklFontfveZrNXjz.gif" alt="Working" width="200" height="100" />
 <img src="https://i.giphy.com/giKklFontfveZrNXjz.gif" alt="Working" width="200" height="100" />
 
 
-### Myself
+### Hi there👋, I'm chaosdev
 
-```js
-me.devName('chaosd3v');
-me.devFor('open source projects'||'other side projects');
-```
 <!-- - 🤖 **Bots builder** || **Turing Test Passed** ✅-->
 - 🔭 Into __Fullstack Development__
 - 🌱 Currently learning __Next.JS framework__ 
@@ -44,7 +39,7 @@ print(usual_skills)
 
 <details>
 <summary>Click for GitHub Stats</summary>
-<p><img alt = "GitHub Stats" src="https://github-readme-stats-neo.vercel.app/api?username=chaosd3v&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"></p>
+<p><img alt = "GitHub Stats" src="https://github-readme-stats-neo.vercel.app/api?username=chaosd3v&show_icons=true&count_private=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"></p>
 </details>
 
 
